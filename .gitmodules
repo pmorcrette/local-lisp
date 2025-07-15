@@ -1,0 +1,87 @@
+[submodule "catppuccin-theme"]
+	path = catppuccin-theme
+	url = https://github.com/catppuccin/emacs.git
+[submodule "all-the-icons"]
+	path = all-the-icons
+	url = https://github.com/domtronn/all-the-icons.el.git
+[submodule "all-the-icons-dired"]
+	path = all-the-icons-dired
+	url = https://github.com/jtbm37/all-the-icons-dired.git
+[submodule "telephone-line"]
+	path = telephone-line
+	url = https://github.com/dbordak/telephone-line.git
+[submodule "general"]
+	path = general
+	url = https://github.com/noctuid/general.el.git
+[submodule "marginalia"]
+	path = marginalia
+	url = https://github.com/minad/marginalia.git
+[submodule "all-the-icons-completion"]
+	path = all-the-icons-completion
+	url = https://github.com/iyefrat/all-the-icons-completion.git
+[submodule "vertico"]
+	path = vertico
+	url = https://github.com/minad/vertico.git
+[submodule "corfu"]
+	path = corfu
+	url = https://github.com/minad/corfu.git
+[submodule "consult"]
+	path = consult
+	url = https://github.com/minad/consult.git
+[submodule "kind-icon"]
+	path = kind-icon
+	url = https://github.com/jdtsmith/kind-icon.git
+[submodule "orderless"]
+	path = orderless
+	url = https://github.com/oantolin/orderless.git
+[submodule "eshell-git-prompt"]
+	path = eshell-git-prompt
+	url = https://github.com/xuchunyang/eshell-git-prompt.git
+[submodule "forge"]
+	path = forge
+	url = https://github.com/magit/forge.git
+[submodule "rainbow-delimiters"]
+	path = rainbow-delimiters
+	url = https://github.com/Fanael/rainbow-delimiters.git
+[submodule "emacs-libvterm"]
+	path = emacs-libvterm
+	url = https://github.com/akermu/emacs-libvterm.git
+[submodule "lsp-ui"]
+	path = lsp-ui
+	url = https://github.com/emacs-lsp/lsp-ui.git
+[submodule "yasnippet"]
+	path = yasnippet
+	url = https://github.com/joaotavora/yasnippet.git
+[submodule "lsp-mode"]
+	path = lsp-mode
+	url = https://github.com/emacs-lsp/lsp-mode.git
+[submodule "yasnippet-snippets"]
+	path = yasnippet-snippets
+	url = https://github.com/AndreaCrotti/yasnippet-snippets.git
+[submodule "sly"]
+	path = sly
+	url = https://github.com/joaotavora/sly.git
+[submodule "slime"]
+	path = slime
+	url = https://github.com/slime/slime.git
+[submodule "lsp-pyright"]
+	path = lsp-pyright
+	url = https://github.com/emacs-lsp/lsp-pyright.git
+[submodule "yaml-mode"]
+	path = yaml-mode
+	url = https://github.com/yoshiki/yaml-mode.git
+[submodule "highlight-indent-guides"]
+	path = highlight-indent-guides
+	url = https://github.com/DarthFennec/highlight-indent-guides.git
+[submodule "emacs-shfmt"]
+	path = emacs-shfmt
+	url = https://github.com/purcell/emacs-shfmt.git
+[submodule "rustic"]
+	path = rustic
+	url = https://github.com/brotzeit/rustic.git
+[submodule "python-mode"]
+	path = python-mode
+	url = https://github.com/emacsmirror/python-mode.git
+[submodule "org-roam"]
+	path = org-roam
+	url = https://github.com/org-roam/org-roam.git
