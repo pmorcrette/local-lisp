@@ -85,3 +85,9 @@
 [submodule "org-roam"]
 	path = org-roam
 	url = https://github.com/org-roam/org-roam.git
+[submodule "compat"]
+	path = compat
+	url = https://github.com/emacs-compat/compat.git
+[submodule "helix-mode"]
+	path = helix-mode
+	url = https://github.com/mgmarlow/helix-mode.git
